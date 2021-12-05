@@ -1,0 +1,177 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Welcome to my Portfolio!
+    text: I'm Ananya Prakash
+    button: This is Me
+    buttonlink: "#about"
+
+  services:
+    title: "Skills"
+    # text: "Technical Skills"
+    section: services
+    list:
+      - title: "Software Development"
+        desc: "Python, Java, C++"
+        icon: fas fa-laptop
+      - title: "Machine Learning Tools"
+        desc: "Numpy, Pandas, Matplotlib, TensorFlow, OpenCv, Keras, SciPy, Scikit-learn, Networkx, Pytorch, NLTK"
+        icon: fas fa-laptop
+      - title: "Web Devlopment"
+        desc: "JavaScript, HTML, React, Spring, Flask"
+        icon: fas fa-laptop
+      - title: "Database Management"
+        desc: "SQL"
+        icon: fas fa-laptop
+      - title: "Multimedia"
+        desc: "Adobe Illustrator, iMovie, Audacity"
+        icon: fas fa-laptop
+  
+  leadership:
+    title: "Leadership"
+    text: "leadership experience"
+    section: leadership
+    list:
+      - title: "Software Development"
+        desc: "Python, Java, C++"
+        icon: fas fa-laptop
+      - title: "Machine Learning Tools"
+        desc: "Numpy, Pandas, Matplotlib, TensorFlow, OpenCv, Keras, SciPy, Scikit-learn, Networkx, Pytorch, NLTK"
+        icon: fas fa-laptop
+      - title: "Web Devlopment"
+        desc: "JavaScript, HTML, React, Spring, Flask"
+        icon: fas fa-laptop
+      - title: "Database Management"
+        desc: "SQL"
+        icon: fas fa-laptop
+      - title: "Multimedia"
+        desc: "Adobe Illustrator, iMovie, Audacity"
+        icon: fas fa-laptop
+
+  portfolio:
+    title: "Portfolio"
+    # text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+  timeline:
+    title: "Experience"
+    # text: "Lorem ipsum timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Software Engineer Analyst - J.P. Morgan"
+        year: "September 2021 - Current"
+        desc: "Developer in Data analystics team for International Private Banking Digital"
+        image: assets/img/timeline/JPMG.png
+        alt:
+      - title: "Software Engineer Intern - J.P Morgan"
+        year: "June 2020 - August 2020"
+        desc: "Social Good Project: Developed a web platform for small-scale farmers in India to leverage ecoomics of scale. Tools: MongoDB, ReactJS, NodeJS, ExpressJS"
+        image: assets/img/timeline/JPMG.png
+        alt:
+      - title: "Undergraduate TA - Electro-Robot Design"
+        year: "Februaury 2020 - May 2020"
+        desc: "Guided students using online CAD for virtual lab sessions and prjects in Electro-Robot Design"
+        image: assets/img/timeline/HKUST.jpg
+        alt: image alt text
+      - title: "Programming and Design Intern - CANA Elite"
+        year: "June 2019 - August 2019"
+        desc: "Worked on an education web portal using HTML and LaTex. Designed graphic illustrations using Adobe Illustrator"
+        image: assets/img/timeline/cana.jpg
+        alt:
+      - title: "HKUST Information Technology Services Center Intern"
+        year: September 2018 - September 2019
+        desc: "Honolulu"
+        image: assets/img/timeline/HKUST.jpg
+        # you can enforce the alignment
+        align: left
+    end: "HKUST"
+
+  about:
+    title: "About Me"
+    text: "My journey"
+    body: "My name is bobbu. I'm not snake babbu. Give me admission plis. You'll be lucky to have me Stanford hehe.."
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.linkedin.com/in/ananya-prakash
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
