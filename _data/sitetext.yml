@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my Portfolio!
-    text: I'm Ananya Prakash
-    button: This is Me
+    title: Hi! I'm 
+    text: Ananya Prakash
+    button: Know more
     buttonlink: "#about"
 
   services:
