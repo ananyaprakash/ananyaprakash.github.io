@@ -1,5 +1,9 @@
-# Agency Jekyll Theme
+Portfolio website of Ananya Prakash
 
+
+
+<!-- # Agency Jekyll Theme -->
+<!--
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue)](/LICENSE.txt)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip_me-green?logo=paypal)](https://www.paypal.me/raviriley)
@@ -45,7 +49,7 @@ I also added a lot of new features that go beyond the original theme's capabilit
 - horizontal scrolling support for portfolio section (coming soon)
 - about section (different from the timeline) -->
 
-The Jekyll structure of this theme includes:
+<!-- The Jekyll structure of this theme includes:
 
 - `_portfolio` files - what generate the portfolio grid. YAML front matter handles all the details
 - the `page` layout allows custom pages, as seen in the legal and 404 pages
@@ -127,7 +131,7 @@ Includes:
 
 -->
 
-## Contributing
+<!--## Contributing
 
 This project is intended to be a welcoming space for collaboration. If you have an idea, suggestion, feature request, etc., feel free to open an issue or pull request.
 
@@ -179,6 +183,7 @@ The theme is available as open source under the terms of the [MIT License](https
 
 -->
 
-[demo-page]: https://raviriley.github.io/agency-jekyll-theme-starter/
+<!--[demo-page]: https://raviriley.github.io/agency-jekyll-theme-starter/
 [template]: https://github.com/raviriley/agency-jekyll-theme-starter
-[generate]: https://github.com/raviriley/agency-jekyll-theme-starter/generate
+[generate]: https://github.com/raviriley/agency-jekyll-theme-starter/generate --!>
+
