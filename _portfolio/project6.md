@@ -17,7 +17,7 @@ Visual effects employed: Green screening, reverse, video overlay. The visuals we
 
 Audio effects: used various instruments to attach sound effects to a MIDI file of the harry potter theme to coincide with the visuals. Added instruments such as bells, trumpets, a string ensemble and a choir, all of which increase the impact of the visuals. The music synthesis was done on garageBand
                 
-Hyperlink: final video and director's cut
+Hyperlink: [final video and director's cut]("https://wwww.google.com) 
 
 
 

@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Hi! I'm 
-    text: Ananya Prakash
+    text: Ananya 
     button: Know more
     buttonlink: "#about"
 
@@ -42,20 +42,17 @@ en: &DEFAULT_EN
     text: "leadership experience"
     section: leadership
     list:
-      - title: "Software Development"
-        desc: "Python, Java, C++"
+      - title: "Captain English Debate Team, HKUST (June 2018)"
+        desc: "As captain of the debate team, I organized weekly sessions and trained my teammates on a plethora of topics concerning technology, social and political affairs as well as economical and ethical conundrums."
         icon: fas fa-laptop
-      - title: "Machine Learning Tools"
-        desc: "Numpy, Pandas, Matplotlib, TensorFlow, OpenCv, Keras, SciPy, Scikit-learn, Networkx, Pytorch, NLTK"
+      - title: "Engineering Student Ambassador"
+        desc: "I organized events to motivate and guide high school students towards pursuing their aspirations in STEM."
         icon: fas fa-laptop
-      - title: "Web Devlopment"
-        desc: "JavaScript, HTML, React, Spring, Flask"
+      - title: "Undergraduate TA"
+        desc: "During my undergraduate Teaching Assistantship for electro-robot design, I guided students in their lab work and projects."
         icon: fas fa-laptop
-      - title: "Database Management"
-        desc: "SQL"
-        icon: fas fa-laptop
-      - title: "Multimedia"
-        desc: "Adobe Illustrator, iMovie, Audacity"
+      - title: "JP Morgan Mentort"
+        desc: "As a JP Morgan Analyst, I am currently mentoring students from my University for a Fintech Innovation Program."
         icon: fas fa-laptop
 
   portfolio:
