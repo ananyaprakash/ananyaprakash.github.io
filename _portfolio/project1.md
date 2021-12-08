@@ -4,7 +4,7 @@ subtitle: Senior year Project
 image: assets/img/portfolio/project1.jpg
 
 caption:
-  itle: Masked Facial Recognition Access Control System
+  title: Masked Facial Recognition Access Control System
   subtitle: Senior year Project
   thumbnail: assets/img/portfolio/project1.jpg
 ---
