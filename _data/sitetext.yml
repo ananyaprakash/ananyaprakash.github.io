@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/HKUST.jpg
         # you can enforce the alignment
         align: left
-    end: "HKUST"
+    end: "2017"
 
   about:
     title: "About Me"
@@ -109,6 +109,7 @@ en: &DEFAULT_EN
     Cities I have lived in are Chennai and Hong Kong. 
     
     Some of my hobbies are portrait sketching, painting, Muay thai, running, singing, hiking and yoga"
+    
 
   # clients:
   #   section: clients

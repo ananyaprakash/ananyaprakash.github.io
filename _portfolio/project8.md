@@ -2,13 +2,13 @@
 title: Sustainability Analysis Peru
 
 subtitle: A case study on Peru
-image: assets/img/portfolio/project6.jpg
+image: assets/img/portfolio/project8.jpg
 alt: 
 
 caption:
   title: Sustainability Analysis Peru
   subtitle: A case study on Peru
-  thumbnail: assets/img/portfolio/project6.jpg
+  thumbnail: assets/img/portfolio/project8.jpg
 ---
  Identified key sustainability challenges faced by Peru and suggested potential solutions based on UN Sustainable development Goals.
  Challenges identified were:
