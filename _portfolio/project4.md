@@ -1,11 +1,11 @@
 ---
-title: Analysis of Covid-19 data to identify Effective Policies to Mitigate COVID-19
-subtitle: Using Data analytics, Networks and Machine Learning
+title: Can data tell us how to stop COVID?
+subtitle: Analysis of Covid-19 data to identify Effective Policies to Mitigate COVID-19
 image: assets/img/portfolio/project4.jpg
 alt: 
 
 caption:
-  title: Analysis of Covid-19 data to identify Effective Policies to Mitigate COVID-19
+  title: Can data tell us how to stop COVID?
   subtitle: Using Data analytics, Networks and Machine Learning
   thumbnail: assets/img/portfolio/project4.jpg
 

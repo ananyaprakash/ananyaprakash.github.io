@@ -1,36 +1,28 @@
 ---
-title: Sustainability Analysis Peru
+title: The Greaest Wizard
 
-subtitle: A case study on Peru
-image: assets/img/portfolio/project7.jpg
+subtitle: Computer Music
+image: assets/img/portfolio/project6.jpg
 alt: 
 
 caption:
-  title: Sustainability Analysis Peru
-  subtitle: A case study on Peru
-  thumbnail: assets/img/portfolio/project7.jpg
+  title: The greatest wizard
+  subtitle: Computer music
+  thumbnail: assets/img/portfolio/project6.jpg
 ---
- Identified key sustainability challenges faced by Peru and suggested potential solutions based on UN Sustainable development Goals.
- Challenges identified were:
- 1. Irresponsible production by mining industry
-    SDG 12: Responsible Production and Consumption 
-    Proposed Solutions:
-      - Penalty for exceeding legal waste limit
-      - Green labelling to promote adherance to regulatory policies
- 2. Deforestation due to agriculture industry
-    SDG 15: Life on Land
-    Proposed Solutions:
-      - Strict forestry law
-      - Tax incentives for conservation and eco-tourism
- 3. Government Instability
-    SDG 16: Peace, Justice and Strog Institutions
-    Proposed Solutions:
-      - Legislation and victim protection
-      - Independent anti-corruption institution
+Final project for computer music course using video and audio manipulation. 
+
+Concept: maestro conducting the battle between two wizards( Gandalf from lord of the rings and dumbledore from harry potter)
+Visual effects employed: Green screening, reverse, video overlay. The visuals were compiled on iMovie.
+
+Audio effects: used various instruments to attach sound effects to a MIDI file of the harry potter theme to coincide with the visuals. Added instruments such as bells, trumpets, a string ensemble and a choir, all of which increase the impact of the visuals. The music synthesis was done on garageBand
+                
+[watch project video](https://drive.google.com/file/d/1rRVFgRFgsbGHO2lApdmcKSxXgVtPTP77/view?usp=sharing) 
+[watch director's cut](https://drive.google.com/file/d/1632mrTA3M6OIZFPEsys_79LQowqhcdxY/view?usp=sharing) 
 
 
 {:.list-inline}
 - Date: February-May 2020
-- Course: Introduction to Sustainability
-- Category: Sustainability
+- Course: Computer Music
+- Category: Multimedia
 
