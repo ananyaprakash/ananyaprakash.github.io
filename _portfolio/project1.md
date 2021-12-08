@@ -1,27 +1,29 @@
 ---
-title: Senior Year Project- Masked facial recognition
-subtitle: Access Control System using Masked Facial Recognition
-image: assets/img/portfolio/01-full.jpg
+title: Masked Facial Recognition Access Control System
+subtitle: Senior year Project
+image: assets/img/portfolio/project1.png
 
 caption:
-  title: Masked facial recognition
-  subtitle: Senior Year Project
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  itle: Masked Facial Recognition Access Control System
+  subtitle: Senior year Project
+  thumbnail: assets/img/portfolio/project1.png
 ---
-<!-- Developed a robust facial recognition system that recognizes masked faces with 77% accuracy. Used image augmentation, feature extraction, and multi-class classification using SVM to develop the recognition engine.  -->
-Situation: Facial recognition systems were performing poorly on masked faces with accuracy reduced up to 50%
-Task: develop a masked facial recognition access control system for contactless access to restricted facilities in university, hospitals, etc.
-Action:
+Existing facial recognition systems were performing poorly on masked faces with accuracy reduced up to 50%. Developed a masked facial recognition access control system for contactless access to restricted facilities in university, hospitals, etc. 
+- Curated a custom dataset of masked faces form university students
+- Used image augementation techniques to create variation in brightness, contrast and noise in images. 
+- Generated images with a variety of patterned masks to reduce homogeneity in dataset.
+- Extracted feature embeddings form pre-processed images to train a  multi-class classifier.
+- Developed a recognition engine with 77% accuracy on masked faces and 99% accurcay on unmasked faces. 
+- Implemented hardware demonstration using Raspberry pi. 
 
-Curated a custom dataset of masked faces
-Developed an end-to-end access control system facilitating enrollment and recognition of users
-MTCNN for image preprocessing, FACENET to extract embeddings, trained using KNN classifier 
+Won "Best Final Year Project Video" award
 
-Results: Achieved 77% accuracy on masked faces and 95% accuracy on unmasked faces. Implemented hardware demonstration using Raspberry pi.   Hyperlink: FYP video [from Drive]
+Hyperlink: [Watch Demo Video]("https://drive.google.com/file/d/1D7zgDxDsMKDNUgzeHLK5_nZ0C3ohczYk/view?usp=sharing") 
 
 
 {:.list-inline}
 - Date: September 2020 - June 2021
 - Web dev tools: React, Javascript, Flask
+- Computer vision techniques: FACENET, MTCNN
 - Facial recognition engine: Python 
 

@@ -15,7 +15,7 @@ caption:
 
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: April-May 2020
+- Course: Introduction to Sustainability
+- Category: Sustainability
 
