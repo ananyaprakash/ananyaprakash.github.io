@@ -1,13 +1,13 @@
 ---
 title: Analysis of Covid-19 data to identify Effective Policies to Mitigate COVID-19
 subtitle: Using Data analytics, Networks and Machine Learning
-image: assets/img/portfolio/project4.png
+image: assets/img/portfolio/project4.jpg
 alt: 
 
 caption:
   title: Analysis of Covid-19 data to identify Effective Policies to Mitigate COVID-19
   subtitle: Using Data analytics, Networks and Machine Learning
-  thumbnail: assets/img/portfolio/project4.png
+  thumbnail: assets/img/portfolio/project4.jpg
 
 ---
 COVID-19 had affected various countries in different ways and several policies were implemented to mitigate the spread of the pandemic.

@@ -1,13 +1,13 @@
 ---
 title: Impact of Covid-19 on Global Stock Markets
 subtitle: Network analysis on the influence and impact of Covid-19 on Global Stock Markets
-image: assets/img/portfolio/project3.png
+image: assets/img/portfolio/project3.jpg
 alt: 
 
 caption:
   title: Impact of Covid-19 on Global Stock Markets
   subtitle: Network analysis on the influence and impact of Covid-19 on Global Stock Markets
-  thumbnail: assets/img/portfolio/project3.png
+  thumbnail: assets/img/portfolio/project3.jpg
 ---
 Analyzed the influence and inter-dependencies of stock markets during Covid-19 pandemic to predict financial crises. Built a directed weighted graph based on Granger Causality to find influencing markets and sub-communities. Hub nodes were identified with potential to destabilize world markets. Community detection revealed the potential impact of financial crises on global trade. This project also helped understand the trade implications caused by lockdowns in a globalized world.
 

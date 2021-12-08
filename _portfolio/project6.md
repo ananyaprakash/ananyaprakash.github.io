@@ -2,13 +2,13 @@
 title: The Greaest Wizard
 
 subtitle: Computer Music
-image: assets/img/portfolio/project6.png
+image: assets/img/portfolio/project6.jpg
 alt: 
 
 caption:
   title: The greatest wizard
   subtitle: Computer music
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project6.jpg
 ---
 Final project for computer music course using video and audio manipulation. 
 
