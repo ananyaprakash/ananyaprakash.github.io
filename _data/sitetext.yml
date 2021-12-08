@@ -51,7 +51,7 @@ en: &DEFAULT_EN
       - title: "Undergraduate TA"
         desc: "During my undergraduate Teaching Assistantship for electro-robot design, I guided students in their lab work and projects."
         icon: fas fa-laptop
-      - title: "JP Morgan Mentort"
+      - title: "JP Morgan Mentor"
         desc: "As a JP Morgan Analyst, I am currently mentoring students from my University for a Fintech Innovation Program."
         icon: fas fa-laptop
 
@@ -99,13 +99,16 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Data Analyst. Developer. Creative Thinker."
-    body: "What do I want to do? Build creative and reliable human-focused technology solutions that benefit society and aid human function.
-    Why? I believe that technology should be developed ethically and responsibly so that it can enable and support us without harming the human ecosystem. I am also interested in studying human cognition and emotion through technology.
-    What do I currently do? I work as a Software Analyst in the Data Analytics team at JP Morgan Chase. I work on data engineering and manipulation to find crucial business inisghts that could improve our customer experience.
-    What are my interests? Human-compatible AI, UI/UX design, Data Analytics, Natural Language Processing... but also sustainability, socio-political affairs, finance and economics and computer music.
-    What are my hobbies?  Music, Portrait sketching and painting, Muay Thai, Running and learning new languages.
-    What languages do I speak? I am fluent in English, Hindi and Tamil, and have a beginner level skill in Mandarin, French and Spanish.
-    Cities I have lived in are Chennai, Hong Kong "
+    body: "My mission is to build creative and reliable human-focused technology solutions that benefit society and aid human function.
+    I believe that technology should be developed ethically and responsibly so that it can enable and support us without harming the human ecosystem. I am also interested in studying human cognition and emotion through technology.
+    Currently, I work as a Software Analyst in the Data Analytics team at JP Morgan Chase. I work on data engineering and manipulation to find crucial business insights that could improve our customer experience.
+    My field-specific interests are Human-compatible AI, UI/UX design, Data Analytics, Natural Language Processing 
+    and other topics that I am interested in are sustainability, socio-political affairs, finance and economics and computer music.
+    
+    Growing up in India and relocating to Hong Kong, I have picked up quite a few languages. I am fluent in English, Hindi and Tamil, and have a beginner level skill in Mandarin, French and Spanish. I have also picked up common Cantonese words in my attempts to engage with the local community.
+    Cities I have lived in are Chennai and Hong Kong 
+    
+    Some of my hobbies are portrait sketching, painting, Muay thai, running, singing, hiking and yoga"
 
   # clients:
   #   section: clients
