@@ -2,7 +2,7 @@
 title: What is Instagram Therapy?
 subtitle: Studying positive human interaction on social media 
 image: assets/img/portfolio/project2.jpg
-alt: Keep Exploring
+alt: 
 
 caption:
   title: What is Instagram Therapy?

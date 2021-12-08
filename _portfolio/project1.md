@@ -16,9 +16,9 @@ Existing facial recognition systems were performing poorly on masked faces with 
 - Developed a recognition engine with 77% accuracy on masked faces and 99% accurcay on unmasked faces. 
 - Implemented hardware demonstration using Raspberry pi. 
 
-Won "Best Final Year Project Video" award
+Won "Best Final Year Project Video" award for the explanation, potential impact and creative demonstration of project
 
-Hyperlink: [Watch Demo Video]("https://drive.google.com/file/d/1D7zgDxDsMKDNUgzeHLK5_nZ0C3ohczYk/view?usp=sharing") 
+[Watch award-winning Demo Video](https://drive.google.com/file/d/1D7zgDxDsMKDNUgzeHLK5_nZ0C3ohczYk/view?usp=sharing) 
 
 
 {:.list-inline}
