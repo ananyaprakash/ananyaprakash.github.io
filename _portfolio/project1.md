@@ -1,12 +1,12 @@
 ---
 title: Masked Facial Recognition Access Control System
 subtitle: Senior year Project
-image: assets/img/portfolio/project1.png
+image: assets/img/portfolio/project1.jpg
 
 caption:
   itle: Masked Facial Recognition Access Control System
   subtitle: Senior year Project
-  thumbnail: assets/img/portfolio/project1.png
+  thumbnail: assets/img/portfolio/project1.jpg
 ---
 Existing facial recognition systems were performing poorly on masked faces with accuracy reduced up to 50%. Developed a masked facial recognition access control system for contactless access to restricted facilities in university, hospitals, etc. 
 - Curated a custom dataset of masked faces form university students
