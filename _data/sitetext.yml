@@ -75,7 +75,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Software Engineer Intern - J.P Morgan"
         year: "June 2020 - August 2020"
-        desc: "Social Good Project: Developed a web platform for small-scale farmers in India to leverage ecoomics of scale. Tools: MongoDB, ReactJS, NodeJS, ExpressJS"
+        desc: "Social Good Project: Developed a web platform for small-scale farmers in India to increase profits by leveraging economies of scale. Tools: MongoDB, ReactJS, NodeJS, ExpressJS"
         image: assets/img/timeline/JPMG.png
         alt:
       - title: "Undergraduate TA - Electro-Robot Design"
@@ -86,11 +86,11 @@ en: &DEFAULT_EN
       - title: "Programming and Design Intern - CANA Elite"
         year: "June 2019 - August 2019"
         desc: "Worked on an education web portal using HTML and LaTex. Designed graphic illustrations using Adobe Illustrator"
-        image: assets/img/timeline/cana.jpg
+        image: assets/img/timeline/cana1.jpg
         alt:
       - title: "HKUST Information Technology Services Center Intern"
         year: September 2018 - September 2019
-        desc: "Honolulu"
+        desc: "Maintained the functioning of computer labs and systems on campus"
         image: assets/img/timeline/HKUST.jpg
         # you can enforce the alignment
         align: left
