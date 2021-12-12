@@ -20,6 +20,8 @@ Investigated the spread of COVID-19 using data mining techniques such as hierarc
 - User community detection to identify clusters. Performed cluster-wise analysis of countries and identified policies that could reduce rise in cases for countries performing poorly in cluster.
 This helped identify closely connected countries and suggest policy implementations based on effective policies of node neighbor countries. 
 
+[project presentation](https://drive.google.com/file/d/1ax-yC4OwYNQE24NRSB2TKccjYcFpKOH9/view?usp=sharing) 
+
 {:.list-inline}
 - Date: September-December 2020
 - Languages: Python

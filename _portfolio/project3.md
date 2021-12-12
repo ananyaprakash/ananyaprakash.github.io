@@ -11,6 +11,8 @@ caption:
 ---
 Analyzed the influence and inter-dependencies of stock markets during Covid-19 pandemic to predict financial crises. Built a directed weighted graph based on Granger Causality to find influencing markets and sub-communities. Hub nodes were identified with potential to destabilize world markets. Identified contagion as a domino effect among different stock indices leading to a global stock market crash. Community detection revealed the potential impact of financial crises on global trade. This project also helped understand the trade implications caused by lockdowns in a globalized world.
 
+[project presentation](https://drive.google.com/file/d/18dP-kanWxG39AReNTxHaWNI4iONhzDHq/view?usp=sharing) 
+
 {:.list-inline}
 - Date: February-May 2021
 - Algorithms used: Page Rank, Maximum Spanning Trees, Spectral Clustering
